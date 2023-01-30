@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @asphylis
 - 👀 I’m interested in Backend Dev and Game Dev
-- 🌱 I’m currently learning OpenCV Python
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on gmail at ashwathmahajan18@gmail.com
 
